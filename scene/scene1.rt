@@ -1,0 +1,4 @@
+camera: 0, 0, 0
+light: AMB: 0, 0, 0: 10
+light: POINT: 1500, 500, 100: 100
+object: SPHERE: 500, 400, 1000: 200: 110, 0, 0: 40: 50

@@ -1,0 +1,4 @@
+camera: 0, 0, 0
+light: POINT: 5000, -1000, 0: 50
+light: AMB: 0, 0, 0: 10
+object: CYLINDER: 500, 0, 3000: 500: 0, 225, 20: 0, 1, 0: 10: 0
