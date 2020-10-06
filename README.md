@@ -8,8 +8,7 @@ RTv1 is a simple ray tracing program. It parses a 3D scene from a file and appli
 •	Algorithm elaboration   
 •	Imperative programming   
 •	Rigor   
-•	Graphics 
-
+•	Graphics    
 • Getting acquainted with the ray tracing rendering technique    
 
 ## Compiling and running
