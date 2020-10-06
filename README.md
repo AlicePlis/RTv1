@@ -4,12 +4,12 @@
 RTv1 is a simple ray tracing program. It parses a 3D scene from a file and applies ray tracing algorithm to render the given scene.
 
 ## Skills to acquire and use
-• Fundamentals of C
-• Algorithm elaboration
-• Imperative programming
-• Rigor
-• Graphics
-• Getting acquainted with the ray tracing rendering technique
+•	Fundamentals of C  
+•	Algorithm elaboration   
+•	Imperative programming   
+•	Rigor   
+•	Graphics 
+• Getting acquainted with the ray tracing rendering technique    
 
 ## Compiling and running
 Run `make`. An executable will compile.
